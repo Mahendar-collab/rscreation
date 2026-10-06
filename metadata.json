@@ -1,0 +1,6 @@
+{
+  "name": "RScreation - Digital Design Marketplace",
+  "description": "Creative Designs. Unlimited Possibilities. Premium downloadable graphic design templates, Telugu flex banners, wedding cards, festival PSDs, and commercial branding assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
